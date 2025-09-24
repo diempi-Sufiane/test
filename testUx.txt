@@ -1,0 +1,18 @@
+ Imagen ya actualizada: $R1JDY36.jpg
+ Imagen ya actualizada: $RCTRWF2.jpg
+ Imagen ya actualizada: 07-9330.giftbox.jpg
+ Imagen ya actualizada: 07-9332giftbox.jpg
+ Imagen ya actualizada: 07-9336.giftbox.jpg
+ Imagen ya actualizada: 07-9336.gigtbox.jpg
+ Imagen ya actualizada: 07-9336.jpg
+ Imagen ya actualizada: 07-9451.giftbox.jpg
+ Imagen ya actualizada: 109905447638_0_org_xl.jpg
+ Imagen ya actualizada: 1111-A.jpg
+ Imagen descargada o actualizada: 34148 - Miracles Cesto Ordenaci?n 25L.jpg
+ Imagen ya actualizada: 41f5geDKkvL._AC_SL1500_.jpg
+ Imagen descargada o actualizada: 5 (3).jpg
+ Sincronización completada.
+
+C:\Users\Usuario\source\repos\ConsoleAppImagenTransfer\ConsoleAppImagenTransfer\bin\Debug\net8.0\ConsoleAppImagenTransfer.exe (proceso 16284) se cerró con el código 0 (0x0).
+Para cerrar automáticamente la consola cuando se detiene la depuración, habilite Herramientas ->Opciones ->Depuración ->Cerrar la consola automáticamente al detenerse la depuración.
+Presione cualquier tecla para cerrar esta ventana. . .
